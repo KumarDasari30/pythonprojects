@@ -14,9 +14,4 @@ A simple **command-line To-Do List App** built with Python that allows users to 
 
 ---
 
-## 🛠️ Installation
 
-### 1️⃣ Clone the Repository:
-```bash
-git clone https://github.com/your-username/todo-list-app.git
-cd todo-list-app
